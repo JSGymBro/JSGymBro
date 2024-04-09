@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @JSGymBro
-- 👀 I’m interested in Coding (BackEnd, FrontEnd), and Sport.
-- 🌱 I’m currently learning JS, HTML, PHP, CSS...
-- 💞️ I’m looking to collaborate on Google.
-- 📫 How to reach me: 🤫🤫🤫
-- ⚡ Fun fact: I want to be Rich.
+программист качок

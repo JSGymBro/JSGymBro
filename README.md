@@ -1,3 +1,3 @@
 FrontEnd "Dev"
-13 y.o
+56 yo
 HTML, CSS, JS and a little bit of Python
